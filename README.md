@@ -1,15 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Damian Glejzer</h1>
-<h3 align="center">A passionate full stack developer from Poland</h3>
+<h3 align="center">A passionate developer from Poland</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damianglejzer&label=Profile%20views&color=0e75b6&style=flat" alt="damianglejzer" /> </p>
 
-- 🔭 I’m currently working on **building websites with Django**
+- 🔭 I’m currently working on **Python automation using LLM's**
 
-- 🌱 I’m currently learning **Python, C**
-
-- 💬 Ask me about **js, react**
+- 🌱 I’m currently learning **Node.js&React**
 
 - 📫 How to reach me **damianglejzer92@gmail.com**
 
